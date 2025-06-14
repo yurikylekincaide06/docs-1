@@ -1,4 +1,4 @@
----
+vendors---
 title: Hosting your own runners
 shortTitle: Self-hosted runners
 intro: You can create self-hosted runners to run workflows in a highly customizable environment.
